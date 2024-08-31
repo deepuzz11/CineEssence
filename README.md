@@ -1,2 +1,2 @@
 # CineEssence
-: Refined Movie Recommendation System
+Refined Movie Recommendation System
